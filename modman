@@ -1,0 +1,11 @@
+/app/code/community/DerModPro/BasePrice /app/code/community/DerModPro/BasePrice 
+#
+/app/design/frontend/base/default/layout/baseprice.xml /app/design/frontend/base/default/layout/baseprice.xml
+/app/design/frontend/base/default/template/baseprice /app/design/frontend/base/default/template/baseprice
+#
+/app/etc/modules/DerModPro_BasePrice.xml /app/etc/modules/DerModPro_BasePrice.xml
+#
+/skin/frontend/base/default/css/baseprice.css /skin/frontend/base/default/css/baseprice.css
+#
+/app/locale/de_DE/DerModPro_BasePrice.csv /app/locale/de_DE/DerModPro_BasePrice.csv
+/app/locale/en_US/DerModPro_BasePrice.csv /app/locale/en_US/DerModPro_BasePrice.csv
